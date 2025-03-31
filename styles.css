@@ -1,0 +1,21 @@
+#ss_button {
+	background-image: url(images/go.png);
+	background-color: transparent;
+	background-size: 50px 50px;
+	height: 50px;
+	width: 50px;
+	border: none;
+}
+
+body {
+	width: 150px;
+	height: 100px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-image: url(images/bg.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
